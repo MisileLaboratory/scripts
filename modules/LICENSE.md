@@ -1,0 +1,1 @@
+Override author information for module.py:methods and classes that has minedragon prefix by MisileLaboratory & Minedragon
